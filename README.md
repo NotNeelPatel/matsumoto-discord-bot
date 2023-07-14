@@ -3,6 +3,8 @@
 
 This is my discord bot that can answer questions and you can feed him information about you to make it more personalized! He can also play sounds and convert text to speech for those in a voice channel!
 
+Matsumoto is inspired by the character of the same name in the anime Vivy: Fluorite Eyes Song
+
 Matsumoto is ran completely locally on a machine of your choice, including the AI LLM!
 
 I made this bot just for me, but my code may be helpful to someone.
